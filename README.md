@@ -50,7 +50,7 @@
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| Teaching Assistant (Software Engineering Laboratory) | [@IIT Bhilai](https://www.iitbhilai.ac.in/) | 2025 |
+| Teaching Assistant (Software Tools & Technologies Laboratory) | [@IIT Bhilai](https://www.iitbhilai.ac.in/) | 2025 |
 | Website Frontend Development Manager | [@NAMS lab, IIT Bhilai](https://research.iitbhilai.ac.in/nams/) | 2025 - 2026 |
 
 
