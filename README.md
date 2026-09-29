@@ -1,10 +1,21 @@
-<h1 align="center">Hii <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width="40px" />, Welcome to my GitHub Profile 👨‍💻❤️✌️</h1>
+<h1 align="center">Hii <img src="images/Hi.gif" width="40px" />, Welcome to my GitHub Profile 👨‍💻❤️✌️</h1>
 <hr align="center" width="100%">
 <hr align="center" width="100%">
 <p align="center">
 <a href="https://www.linkedin.com/in/arindam1012/"><img height="30" src="images/social/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/"><img height="30" src="images\social\icons8-leetcode-96.png"></a>&nbsp;&nbsp;
+<!-- <a href="https://leetcode.com/"><img height="30" src="images\social\icons8-leetcode-96.png"></a>&nbsp;&nbsp; -->
 <a href="mailto:arindamchakraborty1012@gmail.com"><img height="30" src="images\social\icons8-gmail-96.png"></a>&nbsp;&nbsp;
+</p>
+
+## 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/charindam/">
+    <img
+      src="https://leetcard.jacoblin.cool/charindam?theme=dark&ext=heatmap"
+      alt="LeetCode Stats"
+    />
+  </a>
 </p>
 
 ## 🔖📖 Skilled in 📑💻
