@@ -1,4 +1,4 @@
-<h1 align="center">Hii <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width="40px" />, I am Arindam Chakraborty. Welcome to my GitHub Profile 👨‍💻❤️✌️</h1>
+<h1 align="center">Hii <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width="40px" />, Welcome to my GitHub Profile 👨‍💻❤️✌️</h1>
 
 <hr align="center" width="80%">
 <hr align="center" width="80%">
