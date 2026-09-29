@@ -53,7 +53,13 @@
 | Teaching Assistant (Software Tools & Technologies Laboratory) | [@IIT Bhilai](https://www.iitbhilai.ac.in/) | 2025 |
 | Website Frontend Development Manager | [@NAMS lab, IIT Bhilai](https://research.iitbhilai.ac.in/nams/) | 2025 - 2026 |
 
-
+## Achivements 🏆🏅🎉
+  <ul>
+    <li>Award for 1<sup>st</sup> position in Computer Science & Engineering Department, University of Engineering & Management, Kolkata (2023)</li>
+   <li>Awarded scholarship two times for academic excellence by UEM Kolkata (2020, 2021).</li>
+  </ul>
+  
+<div>
 
 
 
