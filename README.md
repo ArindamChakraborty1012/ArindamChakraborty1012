@@ -57,20 +57,20 @@
 <code><img src="images\code-languages\icons8-windows-96.png" height="40"></code>
 
 ## Work Experience 🖱️ 🖥️ ⌨️
-<center>
+
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
 | Teaching Assistant (Software Tools & Technologies Laboratory) | [@IIT Bhilai](https://www.iitbhilai.ac.in/) | 2025 |
 | Website Frontend Development Manager | [@NAMS lab, IIT Bhilai](https://research.iitbhilai.ac.in/nams/) | 2025 - 2026 |
-</center>
+
 
 ## Roles and Responsibilities 🙎‍♂️
-<center>
+
 | 🙎‍♂️ Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
 | Student Representative at Research Board | [@UEM Kolkata](https://uem.edu.in/uem-kolkata/) | 2021 - 2022 |
 | Student Representative at Publication Board | [@UEM Kolkata](https://uem.edu.in/uem-kolkata/) | 2021 - 2022 |
-</center>
+
 
 ## Achivements 🏆🏅🎉
   <ul>
