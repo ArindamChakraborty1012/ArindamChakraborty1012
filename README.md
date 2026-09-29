@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ArindamChakraborty1012&label=Profile+Views&color=22D3EE&style=for-the-badge" alt="Profile Views"/>
 </br>
-**Computer Science Engineer** &nbsp;·&nbsp; CSE @ IIT Bhilai, CSE @ UEM Kolkata
+<strong>Computer Science Engineer</strong> &nbsp;·&nbsp; CSE @ IIT Bhilai &nbsp;·&nbsp; CSE @ UEM Kolkata
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/arindam1012/"><img height="30" src="images/social/linkedin.png"></a>&nbsp;&nbsp;
