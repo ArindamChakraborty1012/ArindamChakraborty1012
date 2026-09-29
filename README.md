@@ -53,10 +53,17 @@
 | Teaching Assistant (Software Tools & Technologies Laboratory) | [@IIT Bhilai](https://www.iitbhilai.ac.in/) | 2025 |
 | Website Frontend Development Manager | [@NAMS lab, IIT Bhilai](https://research.iitbhilai.ac.in/nams/) | 2025 - 2026 |
 
+## Roles and Responsibilities 🙎‍♂️
+| 🙎‍♂️ Designation |  🏢Organization | ⏰Timeline  |
+| :-: | :-: | :-: |
+| Student Representative at Research Board | [@UEM Kolkata](https://uem.edu.in/uem-kolkata/) | 2021 - 2022 |
+| Student Representative at Publication Board | [@UEM Kolkata](https://uem.edu.in/uem-kolkata/) | 2021 - 2022 |
+
 ## Achivements 🏆🏅🎉
   <ul>
-    <li>Award for 1<sup>st</sup> position in Computer Science & Engineering Department, University of Engineering & Management, Kolkata (2023)</li>
+    <li>Award for 1<sup>st</sup> position in Computer Science & Engineering Department, University of Engineering & Management, Kolkata (2023).</li>
    <li>Awarded scholarship two times for academic excellence by UEM Kolkata (2020, 2021).</li>
+   <li>Best paper award for Sign Language Recognition using Landmark Detection, GRU and LSTM in UEMCOS'22 conference.
   </ul>
   
 <div>
