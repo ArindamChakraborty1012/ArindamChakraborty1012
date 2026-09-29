@@ -7,6 +7,7 @@
 <strong>Computer Science Engineer</strong> &nbsp;·&nbsp; M.Tech CSE @ IIT Bhilai &nbsp;·&nbsp; B.Tech CSE @ UEM Kolkata
 <br>
 </p>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/arindam1012/">
   <img height="30" src="images/social/linkedin.png" alt="LinkedIn">
@@ -20,6 +21,10 @@
 <a href="mailto:arindamchakraborty1012@gmail.com"><img height="30" src="images\social\icons8-gmail-96.png"></a>&nbsp;&nbsp;
 
 </p>
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArindamChakraborty1012&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
+</div>
 
 ## 🧩 LeetCode
 
@@ -31,6 +36,7 @@
     />
   </a>
 </p>
+
 
 ## 🔖📖 Skilled in 📑💻
 
