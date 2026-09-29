@@ -1,10 +1,14 @@
-<h1 align="center">Hii <img src="images/Hi.gif" width="40px" />, Welcome to my GitHub Profile 👨‍💻❤️✌️</h1>
-<hr align="center" width="100%">
-<hr align="center" width="100%">
+<h1 align="center">Arindam Chakraborty</h1>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ArindamChakraborty1012&label=Profile+Views&color=22D3EE&style=for-the-badge" alt="Profile Views"/>
+</br>
+**Computer Science Engineer** &nbsp;·&nbsp; CSE @ IIT Bhilai, CSE @ UEM Kolkata
+</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/arindam1012/"><img height="30" src="images/social/linkedin.png"></a>&nbsp;&nbsp;
 <!-- <a href="https://leetcode.com/"><img height="30" src="images\social\icons8-leetcode-96.png"></a>&nbsp;&nbsp; -->
 <a href="mailto:arindamchakraborty1012@gmail.com"><img height="30" src="images\social\icons8-gmail-96.png"></a>&nbsp;&nbsp;
+
 </p>
 
 ## 🧩 LeetCode
