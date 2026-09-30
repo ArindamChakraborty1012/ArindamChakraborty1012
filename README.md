@@ -69,6 +69,9 @@
 <code><img src="images\code-languages\icons8-bash-100.png" height="40"></code>
 <code><img src="images\code-languages\icons8-automation-100.png" height="40"></code>
 
+### Data Analysis and Visualization Tools:
+<code><img src="images\code-languages\icons8-numpy-96.png" height="40"></code>
+
 ### Software Development Lift Cycle:
 <code><img src="images\code-languages\icons8-agile-96.png" height="40"></code>
 
