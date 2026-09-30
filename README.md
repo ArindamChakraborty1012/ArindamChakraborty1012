@@ -71,6 +71,10 @@
 
 ### Data Analysis and Visualization Tools:
 <code><img src="images\code-languages\icons8-numpy-96.png" height="40"></code>
+<code><img src="images\code-languages\icons8-pandas-96.png" height="40"></code>
+<code><img src="images\code-languages\icons8-matplotlib-96.png" height="40"></code>
+<code><img src="images\code-languages\icons8-seaborn-96.png" height="40"></code>
+
 
 ### Software Development Lift Cycle:
 <code><img src="images\code-languages\icons8-agile-96.png" height="40"></code>
